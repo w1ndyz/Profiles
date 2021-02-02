@@ -1,9 +1,3 @@
-⛔️Star ⛔️Fork ⛔️Share
-
-Please read the [Documentation](https://www.notion.so/divineengine/b4161dac0412486e9a6f1637a1b2d572) before using this profile.
-
-[Telegram Channel](https://t.me/DivineEngine)
-
 <details>
   <summary>Surge</summary>
 
@@ -53,3 +47,8 @@ Please read the [Documentation](https://www.notion.so/divineengine/b4161dac04124
 - [Koolson / Qure](https://github.com/Koolson/Qure)
 - [17mon / china_ip_list](https://github.com/17mon/china_ip_list)
 - [blackmatrix7 / ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
+
+**How to use**
+out：[https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Outbound.conf)
+
+in：[https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Inbound.conf](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Inbound.conf)

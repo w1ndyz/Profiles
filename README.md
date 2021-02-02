@@ -5,9 +5,9 @@
 
   Resources: [Website](https://nssurge.com/) / [Manual](http://manual.nssurge.com/) / [FAQ](https://nssurge.com/support) / [Community](https://community.nssurge.com/)
 
-  Profiles(where to go): [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Inbound.conf)
+  Profiles(where to go): [Global](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Outbound.conf) / [China](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Inbound.conf)
 
-  More: [Ruleset](https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset) / [Module](https://github.com/DivineEngine/Profiles/tree/master/Surge/Module)
+  More: [Ruleset](https://github.com/w1ndyz/Profiles/tree/master/Surge/Ruleset) / [Module](https://github.com/w1ndyz/Profiles/tree/master/Surge/Module)
 </details>
 
 <details>
@@ -17,9 +17,9 @@
 
   Resources: [Github](https://github.com/crossutility/Quantumult-X)
 
-  Profiles(where to go): [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Inbound.conf)
+  Profiles(where to go): [Global](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Quantumult/Outbound.conf) / [China](https://raw.githubusercontent.com/Dw1ndyz/Profiles/master/Quantumult/Inbound.conf)
 
-  More: [Filter Remote](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter) / [Rewrite Remote](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Rewrite)
+  More: [Filter Remote](https://github.com/w1ndyz/Profiles/tree/master/Quantumult/Filter) / [Rewrite Remote](https://github.com/w1ndyz/Profiles/tree/master/Quantumult/Rewrite)
 </details>
 
 <details>
@@ -27,11 +27,11 @@
 
   A rule-based tunnel in Go.
 
-  Profiles(where to go): [Global](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/Outbound.yaml) / [China](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/Inbound.yaml)
+  Profiles(where to go): [Global](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Clash/Outbound.yaml) / [China](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Clash/Inbound.yaml)
 
   Resources: [official Wiki](https://github.com/Dreamacro/clash/wiki) / [Unofficial Clash Wiki](https://lancellc.gitbook.io/clash/)
 
-  More: [RuleSet](https://github.com/DivineEngine/Profiles/tree/master/Clash/RuleSet)
+  More: [RuleSet](https://github.com/w1ndyz/Profiles/tree/master/Clash/RuleSet)
 </details>
 
 
@@ -49,6 +49,7 @@
 - [blackmatrix7 / ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
 
 **How to use**
-out：[https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Outbound.conf)
 
-in：[https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Inbound.conf](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Inbound.conf)
+out：[https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Outbound.conf](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Outbound.conf)
+
+in：[https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Inbound.conf](https://raw.githubusercontent.com/w1ndyz/Profiles/master/Surge/Inbound.conf)
